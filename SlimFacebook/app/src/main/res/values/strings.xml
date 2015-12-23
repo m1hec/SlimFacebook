@@ -11,36 +11,36 @@ SlimFacebook is an Open Source app realized by Leonardo Rignanese
     <!-- TRANSLATION IS MADE BY: *YOURNAME* -->
 
     <!--menu string-->
-    <string name="home" translatable="false">Home</string>
-    <string name="refresh">Refresh</string>
-    <string name="top" translatable="false">Top</string>
-    <string name="openInBrowser">Open using the Browser</string>
-    <string name="settings">Settings</string>
-    <string name="share">Share this app</string>
+    <string name="home" translatable="false">Domov</string>
+    <string name="refresh">Osveži</string>
+    <string name="top" translatable="false">Na vrh</string>
+    <string name="openInBrowser">Odpri v brskalniku</string>
+    <string name="settings">Nastavitve</string>
+    <string name="share">Deli aplikacijo</string>
     <!--end menu string-->
 
     <!--settings-->
-    <string name="prefCat_fb_settings_title">Facebook Settings</string>
-    <string name="prefCat_app_settings_title">App Settings</string>
-    <string name="prefCat_app_information_title">App Information</string>
+    <string name="prefCat_fb_settings_title">Facebook nastavitve</string>
+    <string name="prefCat_app_settings_title">Nastavitve aplikacije</string>
+    <string name="prefCat_app_information_title">O aplikaciji</string>
     <string name="title_recentNewsFirst">Order the news feed by most recent</string>
     <string name="summary_recentNewsFirst">instead of by top stories</string>
-    <string name="title_downloadImages">Save Data (needs reboot)</string>
+    <string name="title_downloadImages">Shrani podatke (potreben ponovni zagon)</string>
     <string name="summary_downloadImages">Don\'t download images</string>
-    <string name="title_selectTheme">Select the Theme</string>
-    <string name="summary_selectTheme">choose your favourite theme</string>
-    <string name="version">Version</string>
+    <string name="title_selectTheme">Izberi temo</string>
+    <string name="summary_selectTheme">izberi priljubljeno temo</string>
+    <string name="version">Verzija</string>
     <!--end settings-->
 
     <!--page error-->
-    <string name="titleNoConnection">Ops, there is a problem!</string>
-    <string name="descriptionNoConnection">Try to check the connection and refresh.</string>
-    <string name="awards">This is an Open Source app.</string>
+    <string name="titleNoConnection">Ups, napaka!</string>
+    <string name="descriptionNoConnection">Preverite povezavo in osvežite.</string>
+    <string name="awards">To je odprtokodna aplikacija.</string>
     <!--end page error-->
 
     <!--other-->
-    <string name="downloadInstruction">To download SlimFacebook you have to:\n - Open https://play.google.com/apps/testing/it.rignanese.leo.slimfacebook \n - Login in Google (if you aren\'t already logged)\n - Push \"Become a tester\"\n - Open this with the Play Store App: https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook</string>
-    <string name="thanks">Thanks!</string>
+    <string name="downloadInstruction">Za prenos SlimFacebook aplikacije, morate na:\n - Open https://play.google.com/apps/testing/it.rignanese.leo.slimfacebook \n - Login in Google (if you aren\'t already logged)\n - Push \"Become a tester\"\n - Open this with the Play Store App: https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook</string>
+    <string name="thanks">Hvala!</string>
     <string name="downloadOrShareWithBrowser">Opening browser you can download or share this image.</string>
     <!--end other-->
 
